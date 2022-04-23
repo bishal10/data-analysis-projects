@@ -1,2 +1,5 @@
 # Data Analysis Projects
-It contain all data analysis projects 
+It contain data analysis projects 
+
+### Google Search Analysis
+### Weather Data Analysis
